@@ -1,0 +1,21 @@
+# Large dataset
+data/
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Build
+dist/
+
+# Environment
+.env
+venv/
+
+# Model weights (optional)
+*.pth
+*.pt
+*.h5
